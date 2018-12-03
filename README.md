@@ -2,7 +2,7 @@
 - [Projekte](https://github.com/stefanmerkel/asd-framework/issues/3)
   - [Projektrollen](https://github.com/stefanmerkel/asd-framework/issues/38)
   - [Projektmitglieder](https://github.com/stefanmerkel/asd-framework/issues/37)
-  - [Web-App](https://github.com/stefanmerkel/asd-framework/issues/56)
+  - [PWA](https://github.com/stefanmerkel/asd-framework/issues/56)
   - [Microservices](https://github.com/stefanmerkel/asd-framework/issues/36)
     - [ViewData Abfragen]()
     - [Aggregate](https://github.com/stefanmerkel/asd-framework/issues/30)
